@@ -1,10 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm ibtihel</h1>
-<h3 align="center">A passionate DevOps and IT srudent</h3>
+<h3 align="center">A passionate DevOps and IT engineer</h3>
 
 ## ⚡🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently open to work
 
 - 📫 How to reach me **bedouiibtihel@gmail.com**
 
